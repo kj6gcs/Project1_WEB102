@@ -39,8 +39,7 @@ Here’s a video walkthrough of the implemented required features:
 [![Watch the walkthrough](https://img.youtube.com/vi/2FTMo8EBrJI/0.jpg)](https://youtu.be/2FTMo8EBrJI)
 
 Here's a GIF walkthrough (not as detailed)
-<img src='https://imgur.com/a/gePDuOE' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
-
+[Imgur](https://i.imgur.com/biQ0d53.gifv)
 GIF created with ScreenToGif (https://www.screentogif.com/) for Windows
 
 ## Notes
