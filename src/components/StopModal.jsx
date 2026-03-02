@@ -57,7 +57,7 @@ function StopModal({ stop, onClose }) {
           target="_blank"
           rel="noreferrer"
         >
-          Open official site
+          Visit Website
         </a>
       </div>
     </div>
