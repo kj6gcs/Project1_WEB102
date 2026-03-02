@@ -38,6 +38,11 @@ Here’s a video walkthrough of the implemented required features:
 
 [![Watch the walkthrough](https://img.youtube.com/vi/2FTMo8EBrJI/0.jpg)](https://youtu.be/2FTMo8EBrJI)
 
+Here's a GIF walkthrough (not as detailed)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with ScreenToGif (https://www.screentogif.com/) for Windows
+
 ## Notes
 
 For me, getting used to utilizing CSS over TailwindCSS was a bit of a challenge. However, the biggest challenge was getting the cards spread in a consistent manner that would adapt to screen size.
